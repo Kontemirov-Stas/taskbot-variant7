@@ -1,0 +1,26 @@
+# Секрети та ключі
+.streamlit/secrets.toml
+.env
+*.env
+
+# Python кеш
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+
+# Віртуальні середовища
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Логи
+*.log
+
+# macOS
+.DS_Store
