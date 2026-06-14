@@ -141,10 +141,3 @@ TaskBot: 📊 Підсумок задач:
               │   gpt-4o-mini      │
               └────────────────────┘
 ```
----
-
-## 🔗 Посилання
-
-- [Streamlit документація](https://docs.streamlit.io)
-- [LangGraph документація](https://langchain-ai.github.io/langgraph/)
-- [OpenAI API](https://platform.openai.com)
