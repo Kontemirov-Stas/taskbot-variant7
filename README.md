@@ -141,3 +141,23 @@ TaskBot: 📊 Підсумок задач:
               │   gpt-4o-mini      │
               └────────────────────┘
 ```
+
+## 📸 Скріншоти
+
+<img width="1838" height="871" alt="Image" src="https://github.com/user-attachments/assets/0a997895-5ad6-4a51-bda7-34b47acc7de3" />
+
+<img width="1246" height="812" alt="Image" src="https://github.com/user-attachments/assets/211e5fd8-8d2a-4d82-91bc-17f3b61b9209" />
+
+<img width="1550" height="673" alt="Image" src="https://github.com/user-attachments/assets/3e55198f-48aa-471a-93bc-3358af11b62f" />
+
+<img width="1833" height="851" alt="Image" src="https://github.com/user-attachments/assets/3dc50a4c-69c7-4d36-98c7-b546a7129921" />
+
+<img width="1806" height="653" alt="Image" src="https://github.com/user-attachments/assets/c88693fd-bbc6-423c-9a51-fabced041004" />
+
+---
+
+## 🔗 Посилання
+
+- [Streamlit документація](https://docs.streamlit.io)
+- [LangGraph документація](https://langchain-ai.github.io/langgraph/)
+- [OpenAI API](https://platform.openai.com)
