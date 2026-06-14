@@ -153,11 +153,3 @@ TaskBot: 📊 Підсумок задач:
 <img width="1833" height="851" alt="Image" src="https://github.com/user-attachments/assets/3dc50a4c-69c7-4d36-98c7-b546a7129921" />
 
 <img width="1806" height="653" alt="Image" src="https://github.com/user-attachments/assets/c88693fd-bbc6-423c-9a51-fabced041004" />
-
----
-
-## 🔗 Посилання
-
-- [Streamlit документація](https://docs.streamlit.io)
-- [LangGraph документація](https://langchain-ai.github.io/langgraph/)
-- [OpenAI API](https://platform.openai.com)
